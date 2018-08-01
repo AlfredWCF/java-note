@@ -1,4 +1,4 @@
-# Java technology is both a programming language and a platform
+Deployment Technologies# Java technology is both a programming language and a platform
 
 ## Java特性：
 
@@ -30,3 +30,9 @@ Java platform 包含JVM 和 Java API
 
 [API](https://docs.oracle.com/javase/8/docs/index.html)
 
+Deployment Technologies
+
+User Interface Toolkits
+
+Integration Libraries
+>> like JDBC API
